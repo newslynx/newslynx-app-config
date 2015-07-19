@@ -1,0 +1,14 @@
+{
+  "name": "newslynx-app-config",
+  "version": "0.0.1",
+  "description": "Your configuration files for the Electron build. Or, conceivably, your main build.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Keller",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "chalk": "^1.1.0"
+  }
+}
